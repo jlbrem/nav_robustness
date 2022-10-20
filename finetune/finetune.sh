@@ -21,3 +21,4 @@ fairseq-train $DATA \
 	--patience 10 \
     --reset-meters \
     --restore-file $HOME/train/$lang/tatoeba/checkpoint_best.pt
+

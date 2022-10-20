@@ -11,3 +11,4 @@ for name in $DATA/test/* ; do
     python metrics.py $name $DATA/gold
 done
 
+

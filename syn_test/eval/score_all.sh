@@ -12,3 +12,4 @@ for name in $DATA/* ; do
     python sacrebleu -lc -b $DATA/gold -i $name
 done
 
+
